@@ -13,8 +13,8 @@ This project presents Python code that can:
   
 ## How to Use
 Install the required dependencies:
-    This project uses NumPy for matrix operations.
-    pip install numpy
+    This project uses NumPy for matrix operations.<br>
+           pip install numpy<br>
 Run the program: The program could be run using Google Collab. The link for the program is https://colab.research.google.com/github/nidhipai78/HillCipher/blob/main/Hill_Cipher.ipynb
     
 ## How It Works
